@@ -4,13 +4,13 @@
 
 [Project Overview][1]
 
-[1]:https://github.com/cu-ecen-aeld/final-project-AshwiniCUB/wiki
+[1]:https://github.com/cu-ecen-aeld/final-project-AshwiniCUB/wiki/Project-Overview
 
 # Project Schedule
 
 [Project Schedule][2]
 
-[2]:https://github.com/cu-ecen-aeld/final-project-AshwiniCUB/wiki
+[2]:https://github.com/users/AshwiniCUB/projects/1
 
 # Team Members
 
