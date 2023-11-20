@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # ECEN5713 Final Project (Fall 2023)
 
 # Project Overview
