@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_assignment_base_PATH/package/BME280/Config.in"
+
