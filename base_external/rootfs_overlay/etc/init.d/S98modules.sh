@@ -9,8 +9,8 @@ case "$1" in
         i2cdetect -y 1
         echo "Module loaded succesfully"
 
-        cd /usr/bin
-        ./bme280
+        chmod +x /usr/bin/bme280
+        /usr/bin/bme280
         echo "BME280 sensor module started"
 
         ;;
@@ -25,3 +25,4 @@ case "$1" in
 esac
 
 exit 0
+
