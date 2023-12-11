@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-BME280_VERSION = 'f60ce73c29dce25f9dd6bbd569c3de284b32084c'
+BME280_VERSION = '386d8dfc9809b4becc94cd2ea2e138336fae8207'
 BME280_SITE = 'git@github.com:AshwiniCUB/final-project-aesd.git'
 BME280_SITE_METHOD = git
 BME280_GIT_SUBMODULES = YES
