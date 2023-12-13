@@ -1,6 +1,6 @@
 #! /bin/sh
 
-
+ 
 case "$1" in
     start)
         echo "Initialization of BME280 module"
