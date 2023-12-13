@@ -1,0 +1,6 @@
+config BR2_PACKAGE_BME280
+	bool "bme280"
+	help
+	  Includes the files related to bme280 sensor which is used to get the
+	  sensor values like temp, pressure & humidity
+

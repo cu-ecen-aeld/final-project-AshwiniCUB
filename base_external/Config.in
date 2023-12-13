@@ -1,2 +1,2 @@
-source "$BR2_EXTERNAL_assignment_base_PATH/package/BME280/Config.in"
-
+source "$BR2_EXTERNAL_assignment_base_PATH/package/bme280/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/final/Config.in"
