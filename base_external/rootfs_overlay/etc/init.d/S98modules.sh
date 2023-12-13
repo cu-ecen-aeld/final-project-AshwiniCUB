@@ -9,15 +9,15 @@ case "$1" in
         i2cdetect -y 1
         echo "Module loaded succesfully"
 
-        chmod +x /usr/bin/final_code
-        /usr/bin/final_code
-
         cd /etc/
+        rm -rf tmpdir
         mkdir tmpdir
         cd /tmpdir/
         rm -rf sensordata.txt
         touch sensordata.txt
         chmod +rwx sensordata.txt
+        chmod +x /usr/bin/final_code
+        /usr/bin/final_code
         echo "BME280 sensor module started"
 
         ;;
